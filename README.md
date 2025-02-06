@@ -5,23 +5,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0096-unique-binary-search-trees) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0930-all-possible-full-binary-trees](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0930-all-possible-full-binary-trees) |
 | [1722-throne-inheritance](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1722-throne-inheritance) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1722-throne-inheritance](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1722-throne-inheritance) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0096-unique-binary-search-trees) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0930-all-possible-full-binary-trees](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0930-all-possible-full-binary-trees) |
 ## Hash Table
 |  |
@@ -61,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1364-tuple-with-same-product) |
+## Linked List
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
