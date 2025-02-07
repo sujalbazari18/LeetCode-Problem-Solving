@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1364-tuple-with-same-product) |
 | [1722-throne-inheritance](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1722-throne-inheritance) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Design
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1364-tuple-with-same-product) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Counting
 |  |
 | ------- |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0111-minimum-depth-of-binary-tree) |
+## Simulation
+|  |
+| ------- |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 <!---LeetCode Topics End-->
