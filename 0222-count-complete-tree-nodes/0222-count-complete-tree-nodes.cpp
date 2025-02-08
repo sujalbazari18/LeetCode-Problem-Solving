@@ -11,8 +11,13 @@
  */
 class Solution {
 public:
+    int fun(TreeNode* root){
+        if(!root)return 1;
+        return fun(root->left)+fun(root->right);
+    }
     int countNodes(TreeNode* root) {
-        if(!root)return 0;
-        return 1+countNodes(root->left)+countNodes(root->right);
+        // if(!root)return 1;
+        // return countNodes(root->left)+countNodes(root->right);
+        return fun(root)-1; 
     }
 };
