@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0783-search-in-a-binary-search-tree) |
 | [0930-all-possible-full-binary-trees](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0930-all-possible-full-binary-trees) |
 | [1722-throne-inheritance](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1722-throne-inheritance) |
 ## Depth-First Search
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0783-search-in-a-binary-search-tree) |
 | [0930-all-possible-full-binary-trees](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0930-all-possible-full-binary-trees) |
 ## Hash Table
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0096-unique-binary-search-trees) |
 | [0222-count-complete-tree-nodes](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
+| [0783-search-in-a-binary-search-tree](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0783-search-in-a-binary-search-tree) |
 ## Recursion
 |  |
 | ------- |
