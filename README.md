@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
+| [3447-clear-digits](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/3447-clear-digits) |
 ## Tree
 |  |
 | ------- |
@@ -106,8 +107,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/3447-clear-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
+## String
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
