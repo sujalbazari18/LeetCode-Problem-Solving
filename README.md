@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0417-pacific-atlantic-water-flow) |
 | [1364-tuple-with-same-product](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1364-tuple-with-same-product) |
+| [2310-minimum-operations-to-halve-array-sum](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2310-minimum-operations-to-halve-array-sum](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Graph
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0399-evaluate-division) |
+## Greedy
+|  |
+| ------- |
+| [2310-minimum-operations-to-halve-array-sum](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2310-minimum-operations-to-halve-array-sum) |
 <!---LeetCode Topics End-->
