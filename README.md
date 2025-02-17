@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0096-unique-binary-search-trees) |
 | [0930-all-possible-full-binary-trees](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0930-all-possible-full-binary-trees) |
+| [1025-minimum-cost-for-tickets](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1025-minimum-cost-for-tickets) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0417-pacific-atlantic-water-flow) |
+| [1025-minimum-cost-for-tickets](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1025-minimum-cost-for-tickets) |
 | [1364-tuple-with-same-product](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1477-product-of-the-last-k-numbers) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2310-minimum-operations-to-halve-array-sum) |
