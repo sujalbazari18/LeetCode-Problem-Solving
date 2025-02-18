@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0096-unique-binary-search-trees) |
+| [1086-divisor-game](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1086-divisor-game) |
 | [1477-product-of-the-last-k-numbers](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0096-unique-binary-search-trees) |
 | [0930-all-possible-full-binary-trees](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0930-all-possible-full-binary-trees) |
 | [1025-minimum-cost-for-tickets](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1025-minimum-cost-for-tickets) |
+| [1086-divisor-game](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1086-divisor-game) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -220,4 +222,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0979-di-string-match](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0979-di-string-match) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
