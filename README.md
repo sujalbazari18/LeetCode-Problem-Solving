@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/3447-clear-digits) |
 ## Tree
 |  |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0399-evaluate-division) |
 | [1160-letter-tile-possibilities](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1160-letter-tile-possibilities) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/3447-clear-digits) |
 ## Union Find
 |  |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Topological Sort
 |  |
 | ------- |
@@ -205,5 +208,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0077-combinations) |
 | [0257-binary-tree-paths](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0257-binary-tree-paths) |
 | [1160-letter-tile-possibilities](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1160-letter-tile-possibilities) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
