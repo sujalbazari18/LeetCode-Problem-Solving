@@ -1,14 +1,19 @@
 class Solution {
 public:
     bool divisorGame(int n) {
-        // bool alice=true;
-        // for(int i=0;i<n;i++){
-        //     if(n%i==0){
-        //         n=n-i;
-        //         alice!=alice;
-        //         continue;
-        //     }
-        // }
-        return n%2==0;
+        bool alice=false;
+        while(n>1){
+            bool f=false;
+            for(int i=1;i<n;i++){
+                if(n%i==0){
+                    n=n-i;
+                    alice=!alice;
+                    f=true;
+                    break;
+                }
+            }
+            if(!f)break;
+        }
+        return alice;
     }
 };
