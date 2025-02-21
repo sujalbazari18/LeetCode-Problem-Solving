@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0086-partition-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Breadth-First Search
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0086-partition-list) |
 | [0979-di-string-match](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0979-di-string-match) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Brainteaser
