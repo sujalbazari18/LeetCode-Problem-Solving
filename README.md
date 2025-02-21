@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0783-search-in-a-binary-search-tree) |
 | [0930-all-possible-full-binary-trees](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0930-all-possible-full-binary-trees) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1722-throne-inheritance](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1722-throne-inheritance) |
 ## Depth-First Search
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1722-throne-inheritance](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1722-throne-inheritance) |
 ## Binary Tree
 |  |
@@ -59,11 +61,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0783-search-in-a-binary-search-tree) |
 | [0930-all-possible-full-binary-trees](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0930-all-possible-full-binary-trees) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1364-tuple-with-same-product) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1722-throne-inheritance](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1722-throne-inheritance) |
 | [2107-find-unique-binary-string](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2107-find-unique-binary-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2448-count-number-of-bad-pairs) |
@@ -72,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1477-product-of-the-last-k-numbers) |
 | [1722-throne-inheritance](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1722-throne-inheritance) |
 ## Math
@@ -142,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0417-pacific-atlantic-water-flow) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Simulation
 |  |
 | ------- |
