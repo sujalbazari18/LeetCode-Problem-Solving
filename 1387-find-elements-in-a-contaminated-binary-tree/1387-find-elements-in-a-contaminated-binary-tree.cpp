@@ -11,20 +11,27 @@
  */
 class FindElements {
 public:
-    set<int> s;
+    // set<int> s;
+    TreeNode* root;
     FindElements(TreeNode* root) {
+        this->root=root;
         fun(root,0);
     }
     void fun(TreeNode* root,int x){
         if(!root)return;
         root->val=x;
-        s.insert(x);
+        // s.insert(x);
         fun(root->left,x*2+1);
         fun(root->right,x*2+2);
     }
     bool find(int target) {
-        if(s.find(target)!=s.end())return true;
-        return false;
+        // if(s.find(target)!=s.end())return true;
+        return search(root,target);
+    }
+    bool search(TreeNode* root,int target){
+        if(!root)return false;
+        if(root->val==target)return true;
+        return search(root->left,target) || search(root->right,target);
     }
 };
 
