@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1722-throne-inheritance](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1722-throne-inheritance) |
 ## Binary Tree
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0086-partition-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Breadth-First Search
 |  |
@@ -251,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1086-divisor-game) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
