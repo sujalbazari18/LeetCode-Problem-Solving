@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
+| [0402-remove-k-digits](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0402-remove-k-digits) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0257-binary-tree-paths](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0257-binary-tree-paths) |
 | [0399-evaluate-division](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0399-evaluate-division) |
+| [0402-remove-k-digits](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0402-remove-k-digits) |
 | [0979-di-string-match](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0979-di-string-match) |
 | [1160-letter-tile-possibilities](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0402-remove-k-digits) |
 | [0979-di-string-match](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0979-di-string-match) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -271,4 +274,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
