@@ -15,6 +15,6 @@ public:
                 odd++;
             }
         }
-        return ans%m;
+        return ans;
     }
 };
