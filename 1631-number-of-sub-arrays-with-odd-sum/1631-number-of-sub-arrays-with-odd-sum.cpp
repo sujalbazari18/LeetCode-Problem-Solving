@@ -2,15 +2,19 @@ class Solution {
 public:
     int m=1e9+7;
     int numOfSubarrays(vector<int>& arr) {
-        // int n=arr.size();
-        // vector<int> prefix;
-        // prefix[0]=arr[0];
-        long long odd=0,pre=0;
-        for(int a:arr){
-            pre+=a;
-            odd+=pre%2;
+        int even=1,odd=0;
+        int ans=0;
+        int prefix=0;
+        for(int i=0;i<arr.size();i++){
+            prefix+=arr[i];
+            if(prefix%2==0){
+                ans=(ans+odd)%m;
+                even++;
+            }else{
+                ans=(ans+even)%m;
+                odd++;
+            }
         }
-        odd+=(arr.size()-odd)*odd;
-        return odd%m;
+        return ans%m;
     }
 };
