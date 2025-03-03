@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0402-remove-k-digits](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0739-daily-temperatures) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1364-tuple-with-same-product) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0417-pacific-atlantic-water-flow) |
+| [0496-next-greater-element-i](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0739-daily-temperatures) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0979-di-string-match](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0979-di-string-match) |
@@ -297,5 +300,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
