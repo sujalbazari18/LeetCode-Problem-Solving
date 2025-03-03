@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0402-remove-k-digits](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0402-remove-k-digits) |
+| [0739-daily-temperatures](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0739-daily-temperatures) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0417-pacific-atlantic-water-flow) |
+| [0739-daily-temperatures](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0739-daily-temperatures) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0979-di-string-match](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0979-di-string-match) |
 | [1025-minimum-cost-for-tickets](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1025-minimum-cost-for-tickets) |
@@ -295,4 +297,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0402-remove-k-digits) |
+| [0739-daily-temperatures](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
