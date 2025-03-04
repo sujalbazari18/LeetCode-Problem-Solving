@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0189-rotate-array) |
+| [0326-power-of-three](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0326-power-of-three) |
 | [1086-divisor-game](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1086-divisor-game) |
 | [1477-product-of-the-last-k-numbers](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0326-power-of-three) |
 | [0930-all-possible-full-binary-trees](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0930-all-possible-full-binary-trees) |
 | [2050-count-good-numbers](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2050-count-good-numbers) |
 ## Memoization
