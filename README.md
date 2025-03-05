@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0130-surrounded-regions) |
 | [0189-rotate-array](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0200-number-of-islands) |
+| [0283-move-zeroes](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0283-move-zeroes) |
 | [0399-evaluate-division](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0417-pacific-atlantic-water-flow) |
 | [0496-next-greater-element-i](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0496-next-greater-element-i) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0086-partition-list) |
 | [0189-rotate-array](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0283-move-zeroes) |
 | [0979-di-string-match](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0979-di-string-match) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2265-partition-array-according-to-given-pivot) |
