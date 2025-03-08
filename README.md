@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0326-power-of-three) |
 | [1086-divisor-game](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1086-divisor-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1236-n-th-tribonacci-number](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1236-n-th-tribonacci-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1025-minimum-cost-for-tickets) |
 | [1086-divisor-game](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1086-divisor-game) |
 | [1170-shortest-common-supersequence](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1170-shortest-common-supersequence) |
+| [1236-n-th-tribonacci-number](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1236-n-th-tribonacci-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Binary Search Tree
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0930-all-possible-full-binary-trees](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0930-all-possible-full-binary-trees) |
+| [1236-n-th-tribonacci-number](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1236-n-th-tribonacci-number) |
 ## Array
 |  |
 | ------- |
