@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0257-binary-tree-paths) |
 | [0399-evaluate-division](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0402-remove-k-digits) |
+| [0443-string-compression](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0443-string-compression) |
 | [0979-di-string-match](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0979-di-string-match) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1160-letter-tile-possibilities](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1160-letter-tile-possibilities) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0283-move-zeroes) |
+| [0443-string-compression](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0443-string-compression) |
 | [0979-di-string-match](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0979-di-string-match) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1894-merge-strings-alternately) |
