@@ -5,7 +5,7 @@ public:
         int ans=0;
         int left=0;
         for(int i=1;i<n+k-1;i++){
-            if(i>0 && colors[i%n]==colors[(i-1)%n])left=i;
+            if(colors[i%n]==colors[(i-1)%n])left=i;
             if(i-left+1>=k)ans++;
         }
 
