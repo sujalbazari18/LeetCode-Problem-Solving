@@ -2,16 +2,17 @@ class Solution {
 public:
     int numberOfSubstrings(string s) {
         int n=s.size();
-        int ans=0;
-        int a=-1,b=-1,c=-1;
+        int count=0;
+        int j=0;
+        int freq[3]={0};
         for(int i=0;i<n;i++){
-            if(s[i]=='a')a=i;
-            else if(s[i]=='b')b=i;
-            else c=i;
-
-            ans+=(1+min({a,b,c}));
-            cout<<ans<<endl;
+            freq[s[i]-'a']++;
+            while(freq[0]>0 && freq[1]>0 && freq[2]>0){
+                count+=(n-i);
+                freq[s[j]-'a']--;
+                j++;
+            }
         }
-        return ans;
+        return count;
     }
 };
