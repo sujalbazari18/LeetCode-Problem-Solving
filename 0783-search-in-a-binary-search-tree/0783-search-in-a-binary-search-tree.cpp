@@ -16,7 +16,6 @@ public:
         if(root->val==v)return root;
         if(root->val>v)return search(root->left,v);
         else return search(root->right,v);
-        // return root;
     }
     TreeNode* searchBST(TreeNode* root, int val) {
         return search(root,val);
