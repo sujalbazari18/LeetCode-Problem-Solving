@@ -3,14 +3,15 @@ public:
     bool increasingTriplet(vector<int>& nums) {
         int n=nums.size();
         int maxele=1;
-        vector<int>dp(n,1);
-        for(int i=1;i<nums.size();i++){
-            for(int j=0;j<i;j++){
-                if(nums[j]<nums[i])dp[i]=max(dp[i],dp[j]+1);
-            }
-            maxele=max(maxele,dp[i]);
+        vector<int>dp;
+        // dp.push_back(nums[0]);
+        for(int i=0;i<nums.size();i++){
+            auto k=lower_bound(dp.begin(),dp.end(),nums[i]);
+            if(k==dp.end())dp.push_back(nums[i]);
+            else *k=nums[i];
+            if(dp.size()>=3)return true;
         }
         // return *max_element(dp.begin(),dp.end());r
-        return maxele>=3;
+        return false;
     }
 };
