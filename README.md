@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1364-tuple-with-same-product](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1722-throne-inheritance](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1722-throne-inheritance) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1025-minimum-cost-for-tickets) |
 | [1046-max-consecutive-ones-iii](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1046-max-consecutive-ones-iii) |
 | [1364-tuple-with-same-product](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1364-tuple-with-same-product) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1477-product-of-the-last-k-numbers) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
