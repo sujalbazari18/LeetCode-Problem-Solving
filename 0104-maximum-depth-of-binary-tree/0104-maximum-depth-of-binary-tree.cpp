@@ -10,8 +10,22 @@
  * };
  */
 class Solution {
+// class Solution {
 public:
+    void max(TreeNode* root, int& c, int d) {
+        if (root == NULL) {
+            if (d > c) {
+                c = d;
+            }
+            return;
+        }
+        max(root->left, c, d + 1);
+        max(root->right, c, d + 1);
+    }
+    
     int maxDepth(TreeNode* root) {
-        
+        int c = 0;
+        max(root, c, 0);
+        return c;
     }
 };
