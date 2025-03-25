@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/3483-alternating-groups-ii) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Counting
 |  |
 | ------- |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3430-count-days-without-meetings](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/3430-count-days-without-meetings) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
