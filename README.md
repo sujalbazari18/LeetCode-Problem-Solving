@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0326-power-of-three) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0096-unique-binary-search-trees) |
 | [0392-is-subsequence](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0392-is-subsequence) |
@@ -419,4 +421,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
