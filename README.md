@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2107-find-unique-binary-string](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2107-find-unique-binary-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2308-divide-array-into-equal-pairs) |
+| [2428-equal-row-and-column-pairs](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2428-equal-row-and-column-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2308-divide-array-into-equal-pairs) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [2428-equal-row-and-column-pairs](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2428-equal-row-and-column-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2551-apply-operations-to-an-array](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2551-apply-operations-to-an-array) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2428-equal-row-and-column-pairs](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2428-equal-row-and-column-pairs) |
 | [2551-apply-operations-to-an-array](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0417-pacific-atlantic-water-flow) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2428-equal-row-and-column-pairs](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2428-equal-row-and-column-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/3227-find-missing-and-repeated-values) |
 ## Sorting
 |  |
