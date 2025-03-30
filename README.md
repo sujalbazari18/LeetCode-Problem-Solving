@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0838-design-linked-list](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0838-design-linked-list) |
+| [0969-number-of-recent-calls](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0969-number-of-recent-calls) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1477-product-of-the-last-k-numbers) |
 | [1722-throne-inheritance](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1722-throne-inheritance) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0969-number-of-recent-calls](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1477-product-of-the-last-k-numbers) |
 ## Prefix Sum
 |  |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0969-number-of-recent-calls](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0969-number-of-recent-calls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Combinatorics
 |  |
