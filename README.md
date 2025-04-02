@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0086-partition-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0328-odd-even-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0838-design-linked-list](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0838-design-linked-list) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
