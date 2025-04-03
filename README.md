@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0130-surrounded-regions](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0130-surrounded-regions) |
 | [0189-rotate-array](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0189-rotate-array) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0077-combinations) |
 | [0257-binary-tree-paths](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0257-binary-tree-paths) |
 | [1160-letter-tile-possibilities](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1160-letter-tile-possibilities) |
