@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0783-search-in-a-binary-search-tree) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0930-all-possible-full-binary-trees](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0930-all-possible-full-binary-trees) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1722-throne-inheritance](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1722-throne-inheritance) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0783-search-in-a-binary-search-tree) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0930-all-possible-full-binary-trees](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0930-all-possible-full-binary-trees) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0768-partition-labels](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0768-partition-labels) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -259,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0417-pacific-atlantic-water-flow) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Simulation
