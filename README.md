@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [1073-number-of-enclaves](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1073-number-of-enclaves) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1722-throne-inheritance](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1722-throne-inheritance) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0979-di-string-match) |
 | [1025-minimum-cost-for-tickets](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1025-minimum-cost-for-tickets) |
 | [1046-max-consecutive-ones-iii](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1046-max-consecutive-ones-iii) |
+| [1073-number-of-enclaves](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1073-number-of-enclaves) |
 | [1319-unique-number-of-occurrences](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0417-pacific-atlantic-water-flow) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [1073-number-of-enclaves](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1073-number-of-enclaves) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Simulation
@@ -325,12 +328,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0399-evaluate-division) |
+| [1073-number-of-enclaves](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1073-number-of-enclaves) |
 ## Matrix
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0417-pacific-atlantic-water-flow) |
+| [1073-number-of-enclaves](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1073-number-of-enclaves) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2428-equal-row-and-column-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/3227-find-missing-and-repeated-values) |
