@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0096-unique-binary-search-trees) |
 | [0368-largest-divisible-subset](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0392-is-subsequence) |
+| [0542-01-matrix](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0542-01-matrix) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0930-all-possible-full-binary-trees](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0930-all-possible-full-binary-trees) |
 | [1025-minimum-cost-for-tickets](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1025-minimum-cost-for-tickets) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0417-pacific-atlantic-water-flow) |
 | [0496-next-greater-element-i](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0496-next-greater-element-i) |
+| [0542-01-matrix](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0735-asteroid-collision) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0542-01-matrix) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1073-number-of-enclaves](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1073-number-of-enclaves) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0542-01-matrix) |
 | [1073-number-of-enclaves](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1073-number-of-enclaves) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2428-equal-row-and-column-pairs) |
