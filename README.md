@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0020-valid-parentheses) |
+| [0038-count-and-say](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0257-binary-tree-paths) |
