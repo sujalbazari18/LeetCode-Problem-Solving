@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0768-partition-labels](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0797-rabbits-in-forest) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1160-letter-tile-possibilities) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0368-largest-divisible-subset) |
+| [0797-rabbits-in-forest](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0797-rabbits-in-forest) |
 | [1086-divisor-game](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1086-divisor-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1236-n-th-tribonacci-number) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0739-daily-temperatures) |
+| [0797-rabbits-in-forest](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0979-di-string-match](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0979-di-string-match) |
 | [1025-minimum-cost-for-tickets](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1025-minimum-cost-for-tickets) |
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0402-remove-k-digits) |
 | [0649-dota2-senate](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0649-dota2-senate) |
 | [0768-partition-labels](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0797-rabbits-in-forest) |
 | [0979-di-string-match](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0979-di-string-match) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2456-construct-smallest-number-from-di-string) |
