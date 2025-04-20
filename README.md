@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0979-di-string-match](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0979-di-string-match) |
 | [1025-minimum-cost-for-tickets](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1025-minimum-cost-for-tickets) |
+| [1036-rotting-oranges](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1046-max-consecutive-ones-iii) |
 | [1073-number-of-enclaves](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1073-number-of-enclaves) |
 | [1319-unique-number-of-occurrences](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1319-unique-number-of-occurrences) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0542-01-matrix) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [1036-rotting-oranges](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1073-number-of-enclaves) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0542-01-matrix) |
+| [1036-rotting-oranges](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1073-number-of-enclaves) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
