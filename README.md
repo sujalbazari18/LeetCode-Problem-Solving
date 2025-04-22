@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0096-unique-binary-search-trees) |
 | [0222-count-complete-tree-nodes](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0783-search-in-a-binary-search-tree) |
 | [1046-max-consecutive-ones-iii](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/1046-max-consecutive-ones-iii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0334-increasing-triplet-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0368-largest-divisible-subset) |
 | [0399-evaluate-division](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0399-evaluate-division) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/2308-divide-array-into-equal-pairs) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## String
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/sujalbazari18/LeetCode-Problem-Solving/tree/master/0443-string-compression) |
